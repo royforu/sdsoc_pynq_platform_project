@@ -1,0 +1,8 @@
+/* linux */
+the_ROM_image:
+{
+  [bootloader]<sysconfig1/boot/fsbl.elf>
+  <bitstream>
+  <sysconfig1/boot/u-boot.elf>
+}
+
