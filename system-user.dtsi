@@ -1,0 +1,6 @@
+/include/ "system-conf.dtsi"
+/{
+   xlnx {
+      compatible = "xlnx,xlnk-1.0";
+   };
+ };
